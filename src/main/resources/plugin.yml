@@ -1,0 +1,8 @@
+name: AresBackPack
+version: '${project.version}'
+main: end.aresbackpack.AresBackPack
+api-version: 1.19
+commands:
+  BackPack:
+    usage: /BackPack
+    description: Opens the BackPack for the curren't player's role

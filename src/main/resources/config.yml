@@ -1,0 +1,14 @@
+Messages:
+  NotRole: "You Don't Have The Role To Use This Command."
+  WrongCMD: "You Are Using A Role That Doesn't Exist."
+
+VIPInventoryName: "VIP Inventory"
+DefaultInventoryName: 'Default Inventory'
+MinerInventoryName: 'Miner Inventory'
+LumberJackInventoryName: 'LumberJack Inventory'
+WizardInventoryName: 'Wizard Inventory'
+ScavengerInventoryName: 'Scavenger Inventory'
+ArmorerInventoryName: 'Armorer Inventory'
+FighterInventoryName: 'Fighter Inventory'
+FarmerInventoryName: 'Farmer Inventory'
+
